@@ -25,7 +25,7 @@
 
 **[2025]**
 - **Hanium Dream-Up(ICT Mentoring) - Building and Evaluating a Legal-Domain RAG system**
-  - **Paper Accepted:** [Building and Evaluating a Legal-Domain RAG system](https://koreascience.kr/article/CFKO202532532432735.page)
+  - **Paper Accepted:** [Building and Evaluating a Legal-Domain RAG system: A Comparative Study of Retrievers and Rerankers in the Real Estate Tax field](https://koreascience.kr/article/CFKO202532532432735.page)
     - *Published in:* Korea Information Processing Society (KIPS) **ACK 2025**
     - *Role:* **First Author**
     - *Summary:* 한이음 드림업(구. ICT 멘토링) 프로젝트를 통해 부동산세법에 대한 RAG 시스템을 제작 및 성능 평가를 진행하고 그 결과를 학술대회에 게재하였습니다.
