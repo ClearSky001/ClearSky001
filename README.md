@@ -36,7 +36,7 @@
     - *Role:* **Co-first Author**
     - *Summary:* 한이음 드림업(구. ICT 멘토링) 프로젝트를 통해 RL 알고리즘 중 하나인 SAC 알고리즘의 개선 모델을 제안하고 그 결과를 학술대회에 게재하였습니다.
 - **2025 Samsung Collegiate Programming Challenge : AI 챌린지**
-  - *Result:* Ranked Top 9%
+  - *Result:* **Ranked Top 9%**
 
 ---
 
