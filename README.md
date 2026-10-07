@@ -10,7 +10,7 @@
 
 ### 📚 Education
 - **Suwon University** (Bachelor's in Data Science)
-  - *Expected Graduation: Aug 2026*
+  - *Graduated: Aug 2026*
 
 ---
 
@@ -37,6 +37,15 @@
     - *Summary:* 한이음 드림업(구. ICT 멘토링) 프로젝트를 통해 RL 알고리즘 중 하나인 SAC 알고리즘의 개선 모델을 제안하고 그 결과를 학술대회에 게재하였습니다.
 - **2025 Samsung Collegiate Programming Challenge : AI 챌린지**
   - *Result:* **Ranked Top 9%**
+
+**[2026]**
+- **2026 Samsung Collegiate Programming Challenge : AI 챌린지** ([Repository](https://github.com/ClearSky001/2026_Samsung_AI_Challenge))
+  - *Result:* **Ranked Top 3%**
+  - *Summary:* 개인 기기 Agent의 요청 맥락을 해석해 판단과 실행 계획을 생성하는 규칙 기반 AI Agent Harness를 설계·구현하였습니다.
+- **나라장터 자체입찰 공고 법령 위반사항 모니터링 AI 경진대회** ([Repository](https://github.com/ClearSky001/KONEPS_Legal_Violation_Monitoring_AI_Competition))
+  - *English Title:* AI Competition for Monitoring Legal Violations in KONEPS Self-Procurement Bid Announcements
+  - *Result:* **Ranked Top 17%**
+  - *Summary:* LLM 사실 추출, 규칙 엔진, 법령 RAG를 결합해 입찰공고의 법령 위반 여부와 근거 문구를 판정하는 추론 파이프라인을 개발하였습니다.
 
 ---
 
