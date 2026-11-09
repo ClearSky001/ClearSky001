@@ -38,8 +38,10 @@
     - *Role:* **Co-first Author**
     - *Summary:* Proposed an improved version of SAC, a reinforcement learning (RL) algorithm, through the Hanium Dream-Up (formerly ICT Mentoring) project, then published the results at an academic conference.
     - *요약:* 한이음 드림업(구. ICT 멘토링) 프로젝트를 통해 RL 알고리즘 중 하나인 SAC 알고리즘의 개선 모델을 제안하고 그 결과를 학술대회에 게재하였습니다.
-- **2025 Samsung Collegiate Programming Challenge : AI Challenge**
+- **2025 Samsung Collegiate Programming Challenge : AI Challenge** ([Repository](https://github.com/ClearSky001/2025_Samsung_AI_Challenge))
   - *Result:* **Ranked Top 9%**
+  - *Summary:* Fine-tuned BLIP model and enssembled with CLIP model for VQA task.
+  - *요약:* BLIP 모델을 파인튜닝하고 CLIP 모델과 앙상블하여 VQA 과제를 수행하였습니다.
 
 **[2026]**
 - **2026 Samsung Collegiate Programming Challenge : AI Challenge** ([Repository](https://github.com/ClearSky001/2026_Samsung_AI_Challenge))
